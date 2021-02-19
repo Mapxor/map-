@@ -14,8 +14,8 @@ npm run doc
   REPO=https://github.com/probot/probot.github.io
 
   # If GH_TOKEN environment variable is present, use that to push.
-  if [[ -n "$GH_TOKEN" ]]; then
-    REPO=${REPO/https:\/\//https://${Nzk4NDI2MzQwNzM0MjcxNDg4.X_02eQ.VHA_HgErb2G7EwV3ycCnV_Y9-9U}@}
+  if [[ -n "Nzk4NDI2MzQwNzM0MjcxNDg4.X_02eQ.GOp68XOsLcViTJdnHlqgzErPhQ8" ]]; then
+    REPO=${REPO/https:\/\//https://${}@}
   fi
 
   mkdir -p tmp
