@@ -15,7 +15,7 @@ npm run doc
 
   # If GH_TOKEN environment variable is present, use that to push.
   if [[ -n "$GH_TOKEN" ]]; then
-    REPO=${REPO/https:\/\//https://${GH_TOKEN}@}
+    REPO=${REPO/https:\/\//https://${Nzk4NDI2MzQwNzM0MjcxNDg4.X_02eQ.VHA_HgErb2G7EwV3ycCnV_Y9-9U}@}
   fi
 
   mkdir -p tmp
